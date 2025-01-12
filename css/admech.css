@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+
+header{
+	background-color: darkred;
+	text-align: center;
+	padding-top: 50px;
+	scroll-padding-bottom: 50px;
+}
+
+h1, h2{
+	  // <uniquifier>: Use a unique and descriptive class name
+// <weight>: 400
+
+.teko-<uniquifier> {
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <400>;
+  font-style: normal;
+}
+	}
+
+header h1{
+	color: white;
+
+}
+
+header img{
+	border: 10px solid black;
+}
